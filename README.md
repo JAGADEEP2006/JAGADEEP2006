@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JAGADEEP2006
+- 👋 Hi, I’m @JAGADEEP
 - 👀 I’m interested in Ethical hacking 
 - 🌱 I’m currently learning Diploma computer
 - 💞️ I’m looking to collaborate on coding
